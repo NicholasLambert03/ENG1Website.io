@@ -1,5 +1,5 @@
 body {
-    background-color: #FDF5DF;
+    background-color: #4A2040;
   }
 
 h1{
@@ -9,14 +9,14 @@ h1{
 }
 /*Navigation bar*/
 .nav{
-    background-color: pink;
+    background-color:C880B7;
     overflow: hidden;
 }
 
 /*Links in nav bar*/
 .nav a {
     float: center;
-    color: #f2f2f2;
+    color: #EC9DED;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -26,12 +26,12 @@ h1{
   
   /* Change the color of links on hover */
   .nav a:hover {
-    background-color: rgb(185, 157, 162);
+    background-color: #C990B7;
     color: black;
   }
   
   /* Add a color to the active/current link */
   .nav a.active {
-    background-color:#a4e9fa;
+    background-color:#F5CCE8;
     color: white;
   }
