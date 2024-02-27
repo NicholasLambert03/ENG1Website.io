@@ -1,26 +1,30 @@
 body {
     background-color: #4A2040;
+    color: white;
   }
 
 h1{
     font-family:monospace;
     text-align: center;
     font-size:3vw;
+    color:black;
+    background-color: #C880B7;
 }
 /*Navigation bar*/
 .nav{
-    background-color:C880B7;
+    background-color:#C880B7;
     overflow: hidden;
+    
 }
 
 /*Links in nav bar*/
 .nav a {
     float: center;
-    color: #EC9DED;
-    text-align: center;
+    color: rgb(0, 0, 0);
+    text-align: right;
     padding: 14px 16px;
     text-decoration: none;
-    font-size:1.5vw;
+    font-size:2vw;
 
   }
   
@@ -33,5 +37,5 @@ h1{
   /* Add a color to the active/current link */
   .nav a.active {
     background-color:#F5CCE8;
-    color: white;
+    color: #3f283a;
   }
