@@ -1,25 +1,25 @@
 body {
-    background-color: #4A2040;
-    color: white;
+    background-color: #35374B;
+    color: #78A083;
   }
 
 h1{
     font-family:monospace;
     text-align: center;
     font-size:3vw;
-    color:black;
-    background-color: #C880B7;
+    color:#78A083;
+    background-color: #50727B;
 }
 h2{
   font-family:monospace;
   text-align: center;
   font-size:3vw;
-  color:black;
-  background-color: #C880B7;
+  color:#78A083;
+  background-color: #50727B;
 }
 /*Navigation bar*/
 .nav{
-    background-color:#C880B7;
+    background-color:#50727B;
     overflow: hidden;
     
 }
@@ -37,12 +37,12 @@ h2{
   
   /* Change the color of links on hover */
   .nav a:hover {
-    background-color: #C990B7;
+    background-color: #344955;
     color: black;
   }
   
   /* Add a color to the active/current link */
   .nav a.active {
-    background-color:#F5CCE8;
-    color: #3f283a;
+    background-color:#78A083;
+    color: black;
   }
