@@ -10,6 +10,13 @@ h1{
     color:black;
     background-color: #C880B7;
 }
+h2{
+  font-family:monospace;
+  text-align: center;
+  font-size:3vw;
+  color:black;
+  background-color: #C880B7;
+}
 /*Navigation bar*/
 .nav{
     background-color:#C880B7;
