@@ -58,7 +58,6 @@ h3{
   }
 
 .subnav  {
-    position: fixed;
     background-color:#50727B;
     overflow: hidden;
 }
