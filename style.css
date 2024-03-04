@@ -1,4 +1,6 @@
+
 body {
+  font-size: 1.25vw;
     background-color: #35374B;
     color: #78A083;
   }
@@ -16,6 +18,13 @@ h2{
   font-size:3vw;
   color:#78A083;
   background-color: #50727B;
+}
+h3{
+  margin-top: 175px;
+  font-family:monospace;
+  text-align: left;
+  font-size:1.5vw;
+  color:#78A083;
 }
 /*Navigation bar*/
 .nav{
@@ -47,3 +56,29 @@ h2{
     background-color:#78A083;
     color: black;
   }
+
+.subnav  {
+    position: fixed;
+    background-color:#50727B;
+    overflow: hidden;
+}
+    
+.subnav a{
+    float: center;
+    color: rgb(0, 0, 0);
+    text-align: right;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size:1.5vw;
+    font-family:monospace;
+ }
+
+ .diagram img {
+  width: 781px;
+  height: 364px;
+  margin-top: 20px;
+  vertical-align: middle;
+}
+
+    
+
